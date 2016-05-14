@@ -1,0 +1,11 @@
+(all numbers) -> (numbers)
+(all LETTERS) -> (letters)
+(all letters) -> (letters)
+!->!
+"->?
+#->(circle)
+$->(itemstar)
+
+
+Behavior.... (deal with it later)
+Basically, whatever you are over on the end push is irrelevant, if the length is filled.

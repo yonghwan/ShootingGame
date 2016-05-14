@@ -1,0 +1,12 @@
+0JON2C 15550
+Jack 15490
+Jack 14660
+Jack 14200
+Jack 14160
+Jack 13440
+Jack 13010
+Jack  11360
+AAAA 6810
+AAAA--I$ 5840
+FieldObject constructors: 0
+FieldObject destructors: 0

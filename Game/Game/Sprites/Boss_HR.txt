@@ -1,0 +1,7 @@
+OffsetX:190
+OffsetY:115
+
+Turrets:
+Front: X+[+-]17,Y+115
+Back: X+[+-]5,Y+29
+Wing: X+[+-]84,Y+84

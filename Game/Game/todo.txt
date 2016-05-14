@@ -1,0 +1,17 @@
+TODO
+
+Jon:
+-Finish interface
+-Implement respawning player
+-Implement bombs (semioptional)
+-Implement all enemies/bosses/whatnot
+-Implement explosions from dying whatever (easy)
+-Implement items (easy)
+-Write stages
+-Implement stage transitions (optional) (graphical)
+-Implement high score system (easy)
+
+???:
+-Implement music module
+-Implement timeline module
+-Finish writing music
